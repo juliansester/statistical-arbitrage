@@ -1,6 +1,13 @@
 Code associated to
+
+########################################
+
 ROBUST STATISTICAL ARBITRAGE STRATEGIES
+
+#######################################
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436788
+
 
 This folder contains:
 
