@@ -11,17 +11,19 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436788
 
 This folder contains:
 
-stat_numerics.R: 
+functions.R: 
 All Functions for Computation of No-Statistical Arbitrage Bounds and the corresponding replication strategies are defined here.
 
-exa_ar1_mu_uncertain.R: 
-Contains Example 5.1. 
+Further we provide the following jupyter notebooks:
 
-exa_ar1_k_uncertain.R: 
-Contains Example 5.2. 
-
-exa_crr.R: 
+Example 4.7.ipynb
 Contains Example 4.7.
 
-exa_stoxx: 
+Example 5.1.ipynb
+Contains Example 5.1. 
+
+Example 5.2.ipynb
+Contains Example 5.2. 
+
+Section 5.2. Eurostoxx
 Contains the Example from Section 5.2.
